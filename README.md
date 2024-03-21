@@ -18,11 +18,13 @@ One of the few things I've seen in a while that I saw and immediately thought "y
 2. * Some text-to-text for structured output (or GPT w/ JSON mode)
 - "Review this product summary and output the following JSON:"
 
+```
 item = {
         "listing_title": "Apple Macbook Pro",
         "description": "Apple Macbook Pro in Silver",
         "condition": "Like new",
 }
+```
 
 
 3. price = Stockx_lookup(item)
