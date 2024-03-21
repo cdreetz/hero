@@ -6,7 +6,7 @@ One of the few things I've seen in a while that I saw and immediately thought "y
 - Simple
 - AI integrated thoroughly
 
-1.Smaller object detection model for the live cam 
+1. Smaller object detection model for the live cam 
 - Identify objects, capture image
 
 2. Some ViT like BLIP-VQA or ViLT (or GPT-V) 
@@ -14,7 +14,7 @@ One of the few things I've seen in a while that I saw and immediately thought "y
 - "What is the name, description, and condition of this product?"
 
 
-2.1* Some text-to-text for structured output (or GPT w/ JSON mode)
+2. * Some text-to-text for structured output (or GPT w/ JSON mode)
 - "Review this product summary and output the following JSON:"
 
 item = {
